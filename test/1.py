@@ -7,3 +7,7 @@ print('hello world!')
 num1 = 10
 
 num = 20 
+
+num = 30
+
+num = 40
